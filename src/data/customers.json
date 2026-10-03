@@ -1,0 +1,562 @@
+[
+  {
+    "id": "CUST-1001",
+    "name": "Mason Patel",
+    "email": "mason.patel@example.com",
+    "company": "Lumon",
+    "status": "active",
+    "createdAt": "2025-01-24T02:53:42.656Z",
+    "totalSpent": 10710,
+    "orderCount": 21
+  },
+  {
+    "id": "CUST-1002",
+    "name": "Oliver Martinez",
+    "email": "oliver.martinez@example.com",
+    "company": "Soylent",
+    "status": "active",
+    "createdAt": "2026-02-11T20:13:44.468Z",
+    "totalSpent": 8877,
+    "orderCount": 16
+  },
+  {
+    "id": "CUST-1003",
+    "name": "Olivia Davis",
+    "email": "olivia.davis@example.com",
+    "company": "Initech",
+    "status": "active",
+    "createdAt": "2025-01-27T07:40:02.435Z",
+    "totalSpent": 15415,
+    "orderCount": 21
+  },
+  {
+    "id": "CUST-1004",
+    "name": "Chen Garcia",
+    "email": "chen.garcia@example.com",
+    "company": "Massive Dynamic",
+    "status": "active",
+    "createdAt": "2024-11-25T22:45:32.218Z",
+    "totalSpent": 12638,
+    "orderCount": 26
+  },
+  {
+    "id": "CUST-1005",
+    "name": "Liam Patel",
+    "email": "liam.patel@example.com",
+    "company": "Vehement",
+    "status": "active",
+    "createdAt": "2025-02-01T08:53:47.566Z",
+    "totalSpent": 7130,
+    "orderCount": 19
+  },
+  {
+    "id": "CUST-1006",
+    "name": "Sophia Garcia",
+    "email": "sophia.garcia@example.com",
+    "company": "Contoso",
+    "status": "active",
+    "createdAt": "2025-10-08T06:09:05.676Z",
+    "totalSpent": 7594,
+    "orderCount": 13
+  },
+  {
+    "id": "CUST-1007",
+    "name": "Oliver Anderson",
+    "email": "oliver.anderson@example.com",
+    "company": "Acme Corp",
+    "status": "active",
+    "createdAt": "2026-01-14T18:58:39.474Z",
+    "totalSpent": 7070,
+    "orderCount": 12
+  },
+  {
+    "id": "CUST-1008",
+    "name": "Mia Davis",
+    "email": "mia.davis@example.com",
+    "company": "Umbrella",
+    "status": "active",
+    "createdAt": "2026-01-17T01:44:30.794Z",
+    "totalSpent": 12877,
+    "orderCount": 22
+  },
+  {
+    "id": "CUST-1009",
+    "name": "James Kim",
+    "email": "james.kim@example.com",
+    "company": "Vehement",
+    "status": "active",
+    "createdAt": "2026-01-14T04:59:34.347Z",
+    "totalSpent": 7090,
+    "orderCount": 15
+  },
+  {
+    "id": "CUST-1010",
+    "name": "Emma Miller",
+    "email": "emma.miller@example.com",
+    "company": "Umbrella",
+    "status": "active",
+    "createdAt": "2025-01-21T02:09:24.828Z",
+    "totalSpent": 13001,
+    "orderCount": 25
+  },
+  {
+    "id": "CUST-1011",
+    "name": "Omar Gonzalez",
+    "email": "omar.gonzalez@example.com",
+    "company": "Acme Corp",
+    "status": "inactive",
+    "createdAt": "2025-07-31T20:52:13.654Z",
+    "totalSpent": 7618,
+    "orderCount": 16
+  },
+  {
+    "id": "CUST-1012",
+    "name": "Mateo Rossi",
+    "email": "mateo.rossi@example.com",
+    "company": "Lumon",
+    "status": "active",
+    "createdAt": "2025-05-25T10:25:44.799Z",
+    "totalSpent": 16202,
+    "orderCount": 25
+  },
+  {
+    "id": "CUST-1013",
+    "name": "Amelia Martinez",
+    "email": "amelia.martinez@example.com",
+    "company": "Aperture",
+    "status": "active",
+    "createdAt": "2024-12-15T21:53:03.729Z",
+    "totalSpent": 14599,
+    "orderCount": 23
+  },
+  {
+    "id": "CUST-1014",
+    "name": "Olivia Jones",
+    "email": "olivia.jones@example.com",
+    "company": "Massive Dynamic",
+    "status": "active",
+    "createdAt": "2025-03-10T12:09:04.901Z",
+    "totalSpent": 9597,
+    "orderCount": 17
+  },
+  {
+    "id": "CUST-1015",
+    "name": "Priya Rossi",
+    "email": "priya.rossi@example.com",
+    "company": "Hooli",
+    "status": "inactive",
+    "createdAt": "2025-03-19T02:24:05.907Z",
+    "totalSpent": 14232,
+    "orderCount": 21
+  },
+  {
+    "id": "CUST-1016",
+    "name": "Diego Thomas",
+    "email": "diego.thomas@example.com",
+    "company": "Stark Industries",
+    "status": "active",
+    "createdAt": "2025-01-28T08:43:59.813Z",
+    "totalSpent": 4673,
+    "orderCount": 15
+  },
+  {
+    "id": "CUST-1017",
+    "name": "Mason Thomas",
+    "email": "mason.thomas@example.com",
+    "company": "Northwind",
+    "status": "inactive",
+    "createdAt": "2025-08-22T15:01:25.135Z",
+    "totalSpent": 9092,
+    "orderCount": 22
+  },
+  {
+    "id": "CUST-1018",
+    "name": "Emma Silva",
+    "email": "emma.silva@example.com",
+    "company": "Stark Industries",
+    "status": "active",
+    "createdAt": "2025-12-19T06:07:34.759Z",
+    "totalSpent": 7180,
+    "orderCount": 19
+  },
+  {
+    "id": "CUST-1019",
+    "name": "Emily Rodriguez",
+    "email": "emily.rodriguez@example.com",
+    "company": "Wonka",
+    "status": "inactive",
+    "createdAt": "2025-11-26T08:07:12.324Z",
+    "totalSpent": 20087,
+    "orderCount": 26
+  },
+  {
+    "id": "CUST-1020",
+    "name": "Emily Nguyen",
+    "email": "emily.nguyen@example.com",
+    "company": "Soylent",
+    "status": "inactive",
+    "createdAt": "2025-02-20T13:41:22.745Z",
+    "totalSpent": 15304,
+    "orderCount": 20
+  },
+  {
+    "id": "CUST-1021",
+    "name": "James Williams",
+    "email": "james.williams@example.com",
+    "company": "Acme Corp",
+    "status": "active",
+    "createdAt": "2025-02-23T10:14:17.797Z",
+    "totalSpent": 8032,
+    "orderCount": 11
+  },
+  {
+    "id": "CUST-1022",
+    "name": "Lucas Johnson",
+    "email": "lucas.johnson@example.com",
+    "company": "Lumon",
+    "status": "active",
+    "createdAt": "2025-09-11T14:17:46.150Z",
+    "totalSpent": 14142,
+    "orderCount": 21
+  },
+  {
+    "id": "CUST-1023",
+    "name": "Amelia Davis",
+    "email": "amelia.davis@example.com",
+    "company": "Aperture",
+    "status": "active",
+    "createdAt": "2025-04-19T09:50:01.506Z",
+    "totalSpent": 7989,
+    "orderCount": 25
+  },
+  {
+    "id": "CUST-1024",
+    "name": "Abigail Smith",
+    "email": "abigail.smith@example.com",
+    "company": "Wonka",
+    "status": "inactive",
+    "createdAt": "2025-02-20T05:50:02.210Z",
+    "totalSpent": 10244,
+    "orderCount": 16
+  },
+  {
+    "id": "CUST-1025",
+    "name": "James Rossi",
+    "email": "james.rossi@example.com",
+    "company": "Umbrella",
+    "status": "active",
+    "createdAt": "2024-11-07T07:32:48.054Z",
+    "totalSpent": 9081,
+    "orderCount": 17
+  },
+  {
+    "id": "CUST-1026",
+    "name": "Amelia Brown",
+    "email": "amelia.brown@example.com",
+    "company": "Hooli",
+    "status": "inactive",
+    "createdAt": "2026-03-02T02:04:09.343Z",
+    "totalSpent": 5466,
+    "orderCount": 21
+  },
+  {
+    "id": "CUST-1027",
+    "name": "Abigail Garcia",
+    "email": "abigail.garcia@example.com",
+    "company": "Soylent",
+    "status": "active",
+    "createdAt": "2025-07-06T01:27:48.803Z",
+    "totalSpent": 12823,
+    "orderCount": 22
+  },
+  {
+    "id": "CUST-1028",
+    "name": "Mia Costa",
+    "email": "mia.costa@example.com",
+    "company": "Pied Piper",
+    "status": "active",
+    "createdAt": "2025-04-30T07:42:38.532Z",
+    "totalSpent": 7222,
+    "orderCount": 15
+  },
+  {
+    "id": "CUST-1029",
+    "name": "Diego Williams",
+    "email": "diego.williams@example.com",
+    "company": "Globex",
+    "status": "active",
+    "createdAt": "2025-03-07T20:24:22.192Z",
+    "totalSpent": 12583,
+    "orderCount": 16
+  },
+  {
+    "id": "CUST-1030",
+    "name": "Alexander Johnson",
+    "email": "alexander.johnson@example.com",
+    "company": "Aperture",
+    "status": "active",
+    "createdAt": "2024-11-01T02:33:11.609Z",
+    "totalSpent": 7273,
+    "orderCount": 22
+  },
+  {
+    "id": "CUST-1031",
+    "name": "Noah Silva",
+    "email": "noah.silva@example.com",
+    "company": "Umbrella",
+    "status": "active",
+    "createdAt": "2025-02-20T06:01:24.368Z",
+    "totalSpent": 11418,
+    "orderCount": 12
+  },
+  {
+    "id": "CUST-1032",
+    "name": "Lucas Rossi",
+    "email": "lucas.rossi@example.com",
+    "company": "Cyberdyne",
+    "status": "active",
+    "createdAt": "2025-05-26T13:22:15.681Z",
+    "totalSpent": 12175,
+    "orderCount": 20
+  },
+  {
+    "id": "CUST-1033",
+    "name": "Amelia Wilson",
+    "email": "amelia.wilson@example.com",
+    "company": "Vehement",
+    "status": "active",
+    "createdAt": "2025-10-13T09:55:29.247Z",
+    "totalSpent": 9133,
+    "orderCount": 18
+  },
+  {
+    "id": "CUST-1034",
+    "name": "Ava Silva",
+    "email": "ava.silva@example.com",
+    "company": "Tyrell",
+    "status": "active",
+    "createdAt": "2025-06-19T10:40:19.031Z",
+    "totalSpent": 6090,
+    "orderCount": 15
+  },
+  {
+    "id": "CUST-1035",
+    "name": "Elijah Khan",
+    "email": "elijah.khan@example.com",
+    "company": "Initech",
+    "status": "active",
+    "createdAt": "2025-10-12T07:58:30.455Z",
+    "totalSpent": 8437,
+    "orderCount": 19
+  },
+  {
+    "id": "CUST-1036",
+    "name": "Emma Thomas",
+    "email": "emma.thomas@example.com",
+    "company": "Fabrikam",
+    "status": "active",
+    "createdAt": "2025-03-10T07:27:44.960Z",
+    "totalSpent": 11692,
+    "orderCount": 20
+  },
+  {
+    "id": "CUST-1037",
+    "name": "Sophia Okafor",
+    "email": "sophia.okafor@example.com",
+    "company": "Initech",
+    "status": "inactive",
+    "createdAt": "2025-07-23T14:56:52.003Z",
+    "totalSpent": 18540,
+    "orderCount": 32
+  },
+  {
+    "id": "CUST-1038",
+    "name": "James Lopez",
+    "email": "james.lopez@example.com",
+    "company": "Stark Industries",
+    "status": "active",
+    "createdAt": "2025-01-23T16:16:04.059Z",
+    "totalSpent": 16000,
+    "orderCount": 30
+  },
+  {
+    "id": "CUST-1039",
+    "name": "Henry Okafor",
+    "email": "henry.okafor@example.com",
+    "company": "Tyrell",
+    "status": "active",
+    "createdAt": "2025-06-25T04:03:32.617Z",
+    "totalSpent": 11031,
+    "orderCount": 15
+  },
+  {
+    "id": "CUST-1040",
+    "name": "Olivia Patel",
+    "email": "olivia.patel@example.com",
+    "company": "Contoso",
+    "status": "active",
+    "createdAt": "2025-07-09T06:32:59.068Z",
+    "totalSpent": 5915,
+    "orderCount": 15
+  },
+  {
+    "id": "CUST-1041",
+    "name": "Sophia Nguyen",
+    "email": "sophia.nguyen@example.com",
+    "company": "Cyberdyne",
+    "status": "inactive",
+    "createdAt": "2025-10-21T06:11:14.488Z",
+    "totalSpent": 10198,
+    "orderCount": 16
+  },
+  {
+    "id": "CUST-1042",
+    "name": "Mia Johnson",
+    "email": "mia.johnson@example.com",
+    "company": "Globex",
+    "status": "active",
+    "createdAt": "2025-02-07T14:50:06.917Z",
+    "totalSpent": 2856,
+    "orderCount": 10
+  },
+  {
+    "id": "CUST-1043",
+    "name": "Oliver Miller",
+    "email": "oliver.miller@example.com",
+    "company": "Aperture",
+    "status": "active",
+    "createdAt": "2025-12-17T22:14:37.972Z",
+    "totalSpent": 19939,
+    "orderCount": 26
+  },
+  {
+    "id": "CUST-1044",
+    "name": "Evelyn Costa",
+    "email": "evelyn.costa@example.com",
+    "company": "Fabrikam",
+    "status": "active",
+    "createdAt": "2025-05-04T07:03:24.585Z",
+    "totalSpent": 6767,
+    "orderCount": 13
+  },
+  {
+    "id": "CUST-1045",
+    "name": "Ethan Brown",
+    "email": "ethan.brown@example.com",
+    "company": "Vehement",
+    "status": "active",
+    "createdAt": "2025-02-13T21:59:27.888Z",
+    "totalSpent": 11123,
+    "orderCount": 24
+  },
+  {
+    "id": "CUST-1046",
+    "name": "Emma Haddad",
+    "email": "emma.haddad@example.com",
+    "company": "Lumon",
+    "status": "active",
+    "createdAt": "2025-07-22T12:11:59.915Z",
+    "totalSpent": 11223,
+    "orderCount": 17
+  },
+  {
+    "id": "CUST-1047",
+    "name": "Lucas Nguyen",
+    "email": "lucas.nguyen@example.com",
+    "company": "Aperture",
+    "status": "active",
+    "createdAt": "2025-07-29T15:47:15.259Z",
+    "totalSpent": 17156,
+    "orderCount": 28
+  },
+  {
+    "id": "CUST-1048",
+    "name": "Olivia Martinez",
+    "email": "olivia.martinez@example.com",
+    "company": "Lumon",
+    "status": "active",
+    "createdAt": "2025-10-01T08:02:47.966Z",
+    "totalSpent": 10642,
+    "orderCount": 23
+  },
+  {
+    "id": "CUST-1049",
+    "name": "Sofia Rodriguez",
+    "email": "sofia.rodriguez@example.com",
+    "company": "Tyrell",
+    "status": "inactive",
+    "createdAt": "2025-07-30T09:41:01.288Z",
+    "totalSpent": 11212,
+    "orderCount": 20
+  },
+  {
+    "id": "CUST-1050",
+    "name": "Sofia Hernandez",
+    "email": "sofia.hernandez@example.com",
+    "company": "Hooli",
+    "status": "active",
+    "createdAt": "2025-09-04T01:10:56.069Z",
+    "totalSpent": 13153,
+    "orderCount": 20
+  },
+  {
+    "id": "CUST-1051",
+    "name": "Diego Rodriguez",
+    "email": "diego.rodriguez@example.com",
+    "company": "Nebula Labs",
+    "status": "active",
+    "createdAt": "2026-02-19T06:47:38.632Z",
+    "totalSpent": 10834,
+    "orderCount": 21
+  },
+  {
+    "id": "CUST-1052",
+    "name": "Emma Jones",
+    "email": "emma.jones@example.com",
+    "company": "Nebula Labs",
+    "status": "active",
+    "createdAt": "2025-06-12T05:07:03.525Z",
+    "totalSpent": 10601,
+    "orderCount": 15
+  },
+  {
+    "id": "CUST-1053",
+    "name": "Mia Nguyen",
+    "email": "mia.nguyen@example.com",
+    "company": "Tyrell",
+    "status": "inactive",
+    "createdAt": "2025-09-13T04:36:45.096Z",
+    "totalSpent": 14348,
+    "orderCount": 19
+  },
+  {
+    "id": "CUST-1054",
+    "name": "Abigail Patel",
+    "email": "abigail.patel@example.com",
+    "company": "Wonka",
+    "status": "active",
+    "createdAt": "2025-02-26T05:58:23.471Z",
+    "totalSpent": 10144,
+    "orderCount": 16
+  },
+  {
+    "id": "CUST-1055",
+    "name": "Sophia Davis",
+    "email": "sophia.davis@example.com",
+    "company": "Umbrella",
+    "status": "inactive",
+    "createdAt": "2025-09-20T09:10:24.185Z",
+    "totalSpent": 11234,
+    "orderCount": 21
+  },
+  {
+    "id": "CUST-1056",
+    "name": "Yuki Patel",
+    "email": "yuki.patel@example.com",
+    "company": "Aperture",
+    "status": "active",
+    "createdAt": "2025-12-01T04:21:26.124Z",
+    "totalSpent": 15720,
+    "orderCount": 21
+  }
+]

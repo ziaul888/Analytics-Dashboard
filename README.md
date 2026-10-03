@@ -13,7 +13,8 @@ Tailwind CSS v4.
   states with retry, and schema validation that rejects unexpected data.
 - **Responsive** from phone to desktop, with light and dark themes.
 
-> **Live demo:** _add your Vercel URL here after deploying (see [Deployment](#deployment))._
+> **Live demo:** https://analytics-dashboard-psi-dun.vercel.app  
+> Source: https://github.com/ziaul888/Analytics-Dashboard
 
 ---
 
